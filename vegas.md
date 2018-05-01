@@ -20,5 +20,7 @@
     from California to the east
 
   - Then the hoover dam was built, and bought business to bars, and houses of prostitution.
-  - Then the electricity and the magnesium 
+  - Then the electricity and the magnesium plant made Las Vegas grow as a city
+
+  - 
 }
