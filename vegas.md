@@ -25,5 +25,5 @@
   - The Kefauver Committee made anti-gambling nonsense, but Nevada legalised it
   - So Las Vegas became the go-to place for gamblers kicked out of other states
 
-  - 
+  - Until Atlantic City opened in 1976, Nevada was the only place in the United States where you could legally gamble. 
 }
