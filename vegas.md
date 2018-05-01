@@ -13,6 +13,7 @@
   - Las vegas was an Oasis.
   - Being an oasis, it was a natural stopping place for travellers going
     from California to the east
-  - 
+
+  - Then the hoover dam was built, 
 
 }
