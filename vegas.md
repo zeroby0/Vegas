@@ -1,6 +1,7 @@
 * start {
   
-  - Las Vegas, 
+  - Las Vegas, Nevada
+  - 
 }
 * goals {
   - How las vegas became the entertainment capital of the world.
