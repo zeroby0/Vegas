@@ -23,5 +23,7 @@
   - Then the electricity and the magnesium plant made Las Vegas grow as a city
 
   - The Kefauver Committee made anti-gambling nonsense, but Nevada legalised it
-  - So Las Vegas became the go-to place for 
+  - So Las Vegas became the go-to place for gamblers kicked out of other states
+
+  - 
 }
