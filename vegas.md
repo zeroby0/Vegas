@@ -47,6 +47,6 @@
 }
 
 * History.com {
-  @link https://www.britannica.com/topic/Hoover-Dam
+  @link: https://www.britannica.com/topic/Hoover-Dam
 }
 
