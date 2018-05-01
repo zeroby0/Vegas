@@ -7,4 +7,12 @@
   - How the hoover dam changed the whole scene
 }
 
-* 
+* Small description {
+  @link: https://www.quora.com/Why-was-Las-Vegas-built-on-a-desert
+
+  - Las vegas was an Oasis.
+  - Being an oasis, it was a natural stopping place for travellers going
+    from California to the east
+  - 
+
+}
