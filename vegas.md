@@ -54,3 +54,11 @@
   
 }
 
+* open-tabs {
+  - https://the-mafia.weebly.com/mafia-in-las-vegas.html
+  - https://www.cheapovegas.com/history-sin-city
+  - https://www.quora.com/Is-Las-Vegas-safe
+  - https://www.history.com/topics/las-vegas
+  - https://www.google.com/search?newwindow=1&client=safari&rls=en&ei=zNblWrubNIT6vgTX_rfACA&q=how+did+vegas+start&oq=How+did+vegas+&gs_l=psy-ab.3.0.0l10.19771.22439.0.24399.14.14.0.0.0.0.396.3164.0j1j5j5.11.0....0...1c.1.64.psy-ab..3.11.3164...35i39k1j0i67k1j0i131k1j0i3k1j0i20i263k1.0.6neMvt5MyKw
+}
+
