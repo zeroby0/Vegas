@@ -1,3 +1,3 @@
 ## Vegas
 
-My Las Vegas 
+My Las Vegas paper. Objectives are:
