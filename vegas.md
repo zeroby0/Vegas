@@ -14,6 +14,6 @@
   - Being an oasis, it was a natural stopping place for travellers going
     from California to the east
 
-  - Then the hoover dam was built, and bought business to bars, and 
+  - Then the hoover dam was built, and bought business to bars, and houses of prostitution.
 
 }
