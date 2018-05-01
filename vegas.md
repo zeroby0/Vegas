@@ -44,6 +44,5 @@
 
 * The easy going {
   - What happens in Vegas, stays in Vegas.
-  
 }
 
