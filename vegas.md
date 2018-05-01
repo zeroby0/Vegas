@@ -27,5 +27,5 @@
 
   - Until Atlantic City opened in 1976, Nevada was the only place in the United States where you could legally gamble. 
   - Its proximity to Hollywood and southern California made it a popular weekend getaway, and Vegas became an adult resort.
-  - 
+  - With that the demand for everything grew and the city grew.
 }
