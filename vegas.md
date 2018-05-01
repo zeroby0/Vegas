@@ -1,3 +1,7 @@
+* start {
+  
+  - Las Vegas, 
+}
 * goals {
   - How las vegas became the entertainment capital of the world.
   - How a city in a desert became one of the top tourist destinations in the world.
