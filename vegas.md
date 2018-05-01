@@ -22,5 +22,6 @@
   - Then the hoover dam was built, and bought business to bars, and houses of prostitution.
   - Then the electricity and the magnesium plant made Las Vegas grow as a city
 
-  - 
+  - The Kefauver Committee made anti-gambling nonsense, but Nevada legalised it
+  - So Las Vegas became the go-to place for 
 }
