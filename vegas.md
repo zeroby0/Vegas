@@ -55,6 +55,7 @@
 }
 
 * open-tabs {
+  - https://www.lasvegasnevada.gov/portal/faces/home/our-city/oc-then-now?_afrLoop=5065551115165084&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D5065551115165084%26_afrWindowMode%3D0%26_adf.ctrl-state%3D83s57cj3i_4
   - https://the-mafia.weebly.com/mafia-in-las-vegas.html
   - https://www.cheapovegas.com/history-sin-city
   - https://www.quora.com/Is-Las-Vegas-safe
